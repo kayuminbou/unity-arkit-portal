@@ -2,7 +2,9 @@
 ## 概要
 ARKitを用いて認識した平面に穴を開ける(覗き窓を作る)ようなイメージのアプリです。  
 
-![demo](https://github.com/kayuminbou/unity-arkit-portal/blob/master/portal.GIF)
+<p align="center">
+  <img src="portal.GIF" width="266">
+</p>
 
 ## 作成手順
 ### 1. タッチした箇所に覗き窓(Portal)を投影する
