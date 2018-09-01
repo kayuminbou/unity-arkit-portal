@@ -740,12 +740,12 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 914e8658-2ef5-4b9e-b731-092d104bae6d
-  projectName: 
+  projectName: week1 (1)
   organizationId: koyama2199-ssk-gmail-com
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
