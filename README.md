@@ -6,6 +6,18 @@ ARKitを用いて認識した平面に穴を開ける(覗き窓を作る)よう�
   <img src="portal.GIF" width="266">
 </p>
 
+## 開発環境
+- Unity v2018.2.3f1
+- Apple Xcode 9.4.1
+- iPhone 7
+- Apple iOS 12.0  
+
+自分の開発環境は↑ですが、以下の要件を満たしていれば動くはずです。  
+- Unity v2017.1+
+- Apple Xcode 9.3+ with latest iOS SDK that contains ARKit Framework
+- Apple iOS device that supports ARKit (iPhone 6S or later, iPad (2017) or later)
+- Apple iOS 11.3+ installed on device
+
 ## 作成手順
 ### 1. タッチした箇所に覗き窓(Portal)を投影する
 1. Unityを立ち上げ、AssetStoreからARKitをインポート、"UnityARKitScene"を元にいじっていきます。
